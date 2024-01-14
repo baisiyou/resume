@@ -1,0 +1,47 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-roboto: Roboto;
+
+  /* font sizes */
+  --font-size-lg: 18px;
+  --font-size-mid: 17px;
+  --font-size-base: 16px;
+  --font-size-5xl: 24px;
+  --font-size-7xl: 26px;
+  --font-size-xl: 20px;
+  --font-size-13xl: 32px;
+  --font-size-mini: 15px;
+  --font-size-lgi: 19px;
+  --font-size-6xl: 25px;
+  --font-size-11xl: 30px;
+  --font-size-4xl: 23px;
+  --font-size-29xl: 48px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-black: #000;
+  --color-blue: #6e07f3;
+  --color-gray-100: #141c3a;
+  --color-gray-300: rgba(0, 0, 0, 0.25);
+  --color-gray-200: rgba(255, 255, 255, 0.5);
+  --color-gray-400: rgba(10, 10, 10, 0.9);
+  --color-dodgerblue: #1a8cff;
+  --color-aquamarine: #5be9b9;
+  --color-aliceblue: #e6ecf8;
+  --color-gainsboro: #d9d9d9;
+  --color-orangered: #f84912;
+  --color-seagreen: #11825c;
+
+  /* Border radiuses */
+  --br-38xl: 57px;
+  --br-230xl: 249px;
+  --br-109xl: 128px;
+  --br-117xl: 136px;
+  --br-9980xl: 9999px;
+  --br-xs: 12px;
+}
